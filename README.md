@@ -3,7 +3,7 @@
 # QRoute-AI: Quantum-Inspired Traffic Optimizer
 
 
-** Problem Statement 26137**
+**Problem Statement 26137**
 
 A full-stack, quantum-inspired metaheuristic routing engine designed to solve dynamic, large-scale Vehicle Routing Problems (VRP). QRoute-AI leverages Quantum Particle Swarm Optimization (QPSO) to avoid local minima and dynamically calculate near-optimal fleet paths across real-world city grids.
 
